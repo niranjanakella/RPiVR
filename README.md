@@ -60,7 +60,7 @@ After setting up the hotspot on the raspberry, connect the Picamera module and r
 ~~~
 python3 RPi_VR.py
 ~~~
-The above script setups a webstreaming mechanism in an infinite loop. To access this stream browse to "http://ipaddressofpi:8000".<br><br><br>
+The above script setups a webstreaming mechanism in an infinite loop. To access this stream browse to "http://ipAddressOfRPi:8000".<br><br><br>
 
 
 ## Stream to VR App
