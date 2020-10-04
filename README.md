@@ -2,7 +2,7 @@
 This repository is a mini hobby project by **Akella Niranjan** & **Katta Ganesh**.<br>
 The current project "RPi VR" is a Raspberry Pi (Model 3B) based VR video streaming mechanism which can be used in a wide range of surveillance & UAV (Unmanned Aerial Vehicle) applications.
 
-### Components<hr>
+### Components
 #### Hardware:
 -  Raspberry Pi 3B
 -  Picamera - 5MP
