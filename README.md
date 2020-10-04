@@ -2,7 +2,7 @@
 This repository is a mini hobby project by **Akella Niranjan** & **Katta Ganesh**.<br>
 The current project "RPi VR" is a Raspberry Pi (Model 3B) based VR video streaming mechanism which can be used in a wide range of surveillance & UAV (Unmanned Aerial Vehicle) applications.
 
-<center><img src="Images/RPi_VR_Poster.png" width="600" height="450"><br></center>
+<p align = "center"><img src="Images/RPi_VR_Poster.png" width="600" height="450"></p><br>
 
 ### Components
 #### Hardware:
@@ -41,7 +41,7 @@ After running the script, remove the Wireless, Wired Networks and the Spacer set
 - Browse to "Panel Applets"
 - In the appeared menu, scroll down and **Remove** the "Wireless & Wired Network" and "Spacer" settings by selecting them individually.
 
-    <center><img src="Images/Wifi&Spacer_Deletion.png" width="500" height="450"><br></center>
+    <p align = "center"><img src="Images/Wifi&Spacer_Deletion.png" width="500" height="450"><br></p>
 - After removing the above-mentioned applets, close the panel and reboot the system to apply changes.
   ~~~ 
   sudo reboot
@@ -50,7 +50,7 @@ After running the script, remove the Wireless, Wired Networks and the Spacer set
 - After the system boot's up, You will be alble to notice a wired icon on the taskbar.
 - Right-click on it and navigate to **Edit Connections** as shown in the below image.
 
-    <center><img src="Images/Settingup_Hotspot.png" width="500" height="450"></center>
+    <p align = "center"><img src="Images/Settingup_Hotspot.png" width="500" height="450"></p>
 
 - On the appeared "Network Connections" panel click on add, to add new entities.
 - Choose the connection type as WiFi from the drop-down menu and click on create. Wait for couple of seconds, then another dialogue box will appear with "Editing WiFi Connection". Enter your desired connection name on the top of the panel.
