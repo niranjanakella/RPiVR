@@ -13,7 +13,7 @@ The current project "RPi VR" is a Raspberry Pi (Model 3B) based VR video streami
 -  Android Smartphone
 
 #### Software:
-- Raspbian OS (Linux)
+- Raspbian OS
 <br><br>
 
 ## Setup
